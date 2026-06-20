@@ -1,519 +1,294 @@
-<div align="center" style="font-family: 'Cambria', serif; background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 100%); padding: 30px;">
+<!-- Hero Banner -->
+<a href="https://github.com/bksanket99">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db&height=300&section=header&text=SANKET%20BAVISKAR&desc=Senior%20WordPress%20%26%20WooCommerce%20Developer&descSize=20&fontColor=ffffff&animation=fadeIn" alt="Sanket Baviskar - Senior WordPress Developer" />
+</a>
 
-<h1 style="font-family: 'Cambria', serif; color: #1a56db; font-size: 3.5em; margin: 0;">🚀 SANKET BAVISKAR</h1>
+<!-- Profile Overview -->
+<div align="center">
 
-<h2 style="font-family: 'Cambria', serif; color: #60a5fa; font-size: 1.8em; margin: 10px 0;">Senior WordPress & WooCommerce Developer</h2>
+### 🚀 Senior WordPress & WooCommerce Developer | PHP Specialist
 
-<p style="font-family: 'Cambria', serif; color: #e2e8f0; font-size: 1.1em;">Pune, India • IST (UTC+5:30) • 🟢 Available Now</p>
+[![Open To Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Immediate_Joiner-22c55e?style=for-the-badge)](https://linkedin.com/in/skbaviskar99)
+[![Location](https://img.shields.io/badge/📍_Location-Pune,_India-1a56db?style=for-the-badge)](https://www.google.com/maps/place/Pune,+Maharashtra/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge)](mailto:sanket.baviskar@example.com)
 
-<br/>
+**2.5+ Years of Professional Experience | 40+ Websites Delivered | 7 Industries Served**
 
-[![Open To Work](https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-IMMEDIATE%20JOINER-22c55e?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/skbaviskar99)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT%20NOW-1a56db?style=for-the-badge&labelColor=0d1117)](https://sanketbaviskar.netlify.app)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼%20CONNECT-LINKEDIN-0077b5?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/skbaviskar99)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/💻%20GITHUB-PROFILE-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/bksanket99)
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWoLbt6/giphy.gif" width="400" alt="Developer Working" />
+[🌐 Portfolio](https://sanketbaviskar.netlify.app) • [💼 LinkedIn](https://linkedin.com/in/skbaviskar99) • [💻 GitHub](https://github.com/bksanket99) • [🎯 Live Projects](#featured-projects)
 
 </div>
 
 ---
 
-<div align="center" style="font-family: 'Cambria', serif; background-color: #0a1628; padding: 40px; border-radius: 15px; margin: 20px 0;">
+## 📋 About Me
 
-<h2 style="color: #1a56db; font-size: 2.2em;">📊 EXPERIENCE SNAPSHOT</h2>
+I'm a **Senior WordPress & WooCommerce Developer** with **2.5+ years** of hands-on experience building scalable, high-performance web solutions. I specialize in delivering enterprise-grade WordPress sites, WooCommerce stores, and custom PHP integrations that drive business results.
 
-<img src="https://media.giphy.com/media/dxn6fRlJ63iTwzumrw/giphy.gif" width="350" alt="Experience" />
+**What I bring to the table:**
+- ✅ Complete WordPress ecosystem expertise (themes, plugins, custom development)
+- ✅ Full-stack WooCommerce store setup, optimization, and payment integrations
+- ✅ Performance-obsessed developer (90+ PageSpeed scores consistently)
+- ✅ REST API development and 3rd-party integrations (Razorpay, PayPal, Stripe)
+- ✅ Security-first approach (SSL, Wordfence, GDPR compliance, 2FA)
+- ✅ Zero-downtime migrations and DevOps expertise
+- ✅ Mobile-responsive design with Core Web Vitals optimization
 
-</div>
-
-<table align="center" cellpadding="25" cellspacing="15" border="0" width="100%" style="background: linear-gradient(to right, #0d1117, #1a1a2e); border-radius: 10px;">
-<tr>
-<td align="center" width="25%" style="background-color: #1a56db; border-radius: 8px; padding: 20px;">
-<h3 style="font-family: 'Cambria', serif; color: #ffffff; margin: 0;">⏱️ EXPERIENCE</h3>
-<p style="font-family: 'Cambria', serif; color: #60a5fa; font-size: 2em; margin: 10px 0; font-weight: bold;">2.5+</p>
-<p style="font-family: 'Cambria', serif; color: #ffffff; margin: 0;">Years Professional</p>
-</td>
-<td align="center" width="25%" style="background-color: #22c55e; border-radius: 8px; padding: 20px;">
-<h3 style="font-family: 'Cambria', serif; color: #ffffff; margin: 0;">🌐 WEBSITES</h3>
-<p style="font-family: 'Cambria', serif; color: #ffffff; font-size: 2em; margin: 10px 0; font-weight: bold;">40+</p>
-<p style="font-family: 'Cambria', serif; color: #ffffff; margin: 0;">Delivered Global</p>
-</td>
-<td align="center" width="25%" style="background-color: #f59e0b; border-radius: 8px; padding: 20px;">
-<h3 style="font-family: 'Cambria', serif; color: #ffffff; margin: 0;">🏭 INDUSTRIES</h3>
-<p style="font-family: 'Cambria', serif; color: #ffffff; font-size: 2em; margin: 10px 0; font-weight: bold;">7</p>
-<p style="font-family: 'Cambria', serif; color: #ffffff; margin: 0;">Diverse Sectors</p>
-</td>
-<td align="center" width="25%" style="background-color: #ef4444; border-radius: 8px; padding: 20px;">
-<h3 style="font-family: 'Cambria', serif; color: #ffffff; margin: 0;">⚡ PERFORMANCE</h3>
-<p style="font-family: 'Cambria', serif; color: #ffffff; font-size: 2em; margin: 10px 0; font-weight: bold;">90+</p>
-<p style="font-family: 'Cambria', serif; color: #ffffff; margin: 0;">PageSpeed Score</p>
-</td>
-</tr>
-</table>
+**Currently seeking:** WordPress Developer / Senior WordPress Developer / WooCommerce Specialist roles in **Pune, Mumbai, Bangalore, Hyderabad** (Remote / Hybrid / Onsite)
 
 ---
 
-<div align="center" style="font-family: 'Cambria', serif; background-color: #0a1628; padding: 40px; border-radius: 15px; margin: 20px 0;">
+## 🔵 WordPress Expertise
 
-<h2 style="color: #60a5fa; font-size: 2.2em;">⚡ TECHNICAL EXPERTISE</h2>
+<div align="center">
 
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa5/giphy.gif" width="350" alt="Tech Skills" />
-
-</div>
-
-<div align="center" style="background: linear-gradient(135deg, #0d1117, #1a3a52); padding: 30px; border-radius: 10px; margin: 20px 0;">
-
-<h3 style="font-family: 'Cambria', serif; color: #1a56db; font-size: 1.6em;">🔵 WORDPRESS ECOSYSTEM</h3>
-
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)](.)
-[![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white&labelColor=0d1117)](.)
-[![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white&labelColor=0d1117)](.)
-[![ACF%20Pro](https://img.shields.io/badge/ACF%20Pro-00B9F5?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)](.)
+| Skill | Details |
+|-------|---------|
+| **Custom Development** | Custom themes, plugins, Gutenberg blocks, CPT, taxonomy |
+| **Advanced Features** | ACF Pro, hooks & filters, multisite, REST API endpoints |
+| **Page Builders** | Elementor, custom layouts, responsive design |
+| **Database & CMS** | MySQL optimization, custom post types, meta fields |
+| **Integration** | WordPress.com, WordPress.org, WP-CLI, Git workflow |
 
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, #1a3a2e, #0d1117); padding: 30px; border-radius: 10px; margin: 20px 0;">
+**Proficiency Level:** Advanced (2+ years dedicated WordPress development)
 
-<h3 style="font-family: 'Cambria', serif; color: #22c55e; font-size: 1.6em;">🟨 FRONTEND TECHNOLOGIES</h3>
+---
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)](.)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)](.)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)](.)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0d1117)](.)
+## 🛒 WooCommerce Expertise
 
-</div>
+<div align="center">
 
-<div align="center" style="background: linear-gradient(135deg, #3a1a2e, #0d1117); padding: 30px; border-radius: 10px; margin: 20px 0;">
-
-<h3 style="font-family: 'Cambria', serif; color: #a855f7; font-size: 1.6em;">🟩 BACKEND & DATABASE</h3>
-
-[![PHP](https://img.shields.io/badge/PHP%20OOP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)](.)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)](.)
-[![REST%20API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)](.)
+| Skill | Details |
+|-------|---------|
+| **Store Setup** | Complete store configuration, product management, catalog optimization |
+| **Payments** | Razorpay, PayPal, Stripe integration with webhooks & automation |
+| **Checkout** | Custom checkout flows, cart optimization, abandoned cart recovery |
+| **Advanced** | Subscriptions, dynamic pricing, inventory management, order automation |
+| **Performance** | Store speed optimization, product load times, database tuning |
 
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, #3a1a1a, #0d1117); padding: 30px; border-radius: 10px; margin: 20px 0;">
+**Proficiency Level:** Advanced (2+ years dedicated WooCommerce development)
 
-<h3 style="font-family: 'Cambria', serif; color: #ef4444; font-size: 1.6em;">🟥 PERFORMANCE & SECURITY</h3>
+---
 
-[![Core%20Web%20Vitals](https://img.shields.io/badge/Core%20Web%20Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)](.)
-[![WP%20Rocket](https://img.shields.io/badge/WP%20Rocket-FF6B00?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)](.)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d1117)](.)
-[![Wordfence](https://img.shields.io/badge/Wordfence-E01E5A?style=for-the-badge&logo=shield&logoColor=white&labelColor=0d1117)](.)
+## 💻 Technical Skills
+
+<div align="center">
+
+### Languages & Platforms
+[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)
+[![PHP](https://skillicons.dev/icons?i=php)](https://php.net)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://skillicons.dev/icons?i=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+
+### Tools & Technologies
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+
+### Specialized Knowledge
+- **Performance:** Core Web Vitals, PageSpeed Insights, WP Rocket, Cloudflare, image optimization
+- **Security:** SSL/TLS, Wordfence, malware removal, GDPR compliance, 2FA setup
+- **Integration:** REST APIs, payment gateways, webhook management, 3rd-party services
+- **Deployment:** cPanel, hosting management, zero-downtime migrations, staging environments
 
 </div>
 
 ---
 
-<div align="center" style="font-family: 'Cambria', serif; background-color: #0a1628; padding: 40px; border-radius: 15px; margin: 20px 0;">
+## 🎯 Featured Projects
 
-<h2 style="color: #f59e0b; font-size: 2.2em;">🎯 CORE EXPERTISE</h2>
+<div align="center">
 
-<img src="https://media.giphy.com/media/11sBLVxNZqqPgY2Xxy/giphy.gif" width="350" alt="Core Skills" />
+### Live Websites & Case Studies
 
 </div>
 
-<table align="center" cellpadding="20" cellspacing="10" border="1" bordercolor="#1a56db" width="100%" style="background-color: #0d1117; border-radius: 10px; overflow: hidden;">
-<tr style="background: linear-gradient(to right, #1a56db, #0a1628);">
-<th align="center" style="font-family: 'Cambria', serif; color: #ffffff; padding: 15px;">🔵 WordPress</th>
-<th align="center" style="font-family: 'Cambria', serif; color: #ffffff; padding: 15px;">🛒 WooCommerce</th>
-<th align="center" style="font-family: 'Cambria', serif; color: #ffffff; padding: 15px;">⚡ Performance</th>
-<th align="center" style="font-family: 'Cambria', serif; color: #ffffff; padding: 15px;">🔒 Security</th>
-</tr>
-<tr style="background-color: #1a1a2e;">
-<td valign="top" style="font-family: 'Cambria', serif; color: #e2e8f0;">
-✅ Custom Themes<br/>
-✅ Custom Plugins<br/>
-✅ Gutenberg Blocks<br/>
-✅ ACF Pro Setup<br/>
-✅ CPT & Taxonomy<br/>
-✅ Hooks & Filters<br/>
-✅ Multisite Setup
-</td>
-<td valign="top" style="font-family: 'Cambria', serif; color: #e2e8f0;">
-✅ Store Setup<br/>
-✅ Product Mgmt<br/>
-✅ Custom Checkout<br/>
-✅ Payment Gateway<br/>
-✅ Order Mgmt<br/>
-✅ Subscriptions<br/>
-✅ Email Templates
-</td>
-<td valign="top" style="font-family: 'Cambria', serif; color: #e2e8f0;">
-✅ Core Web Vitals<br/>
-✅ PageSpeed 90+<br/>
-✅ WP Rocket Cache<br/>
-✅ CDN Integration<br/>
-✅ Image Optimization<br/>
-✅ Lazy Loading<br/>
-✅ DB Optimization
-</td>
-<td valign="top" style="font-family: 'Cambria', serif; color: #e2e8f0;">
-✅ SSL Installation<br/>
-✅ Wordfence Setup<br/>
-✅ Brute-Force Block<br/>
-✅ Malware Removal<br/>
-✅ GDPR Compliance<br/>
-✅ 2FA Setup<br/>
-✅ Firewall Config
-</td>
-</tr>
-<tr style="background: linear-gradient(to right, #1a56db, #0a1628);">
-<th align="center" style="font-family: 'Cambria', serif; color: #ffffff; padding: 15px;">🚀 DevOps</th>
-<th align="center" style="font-family: 'Cambria', serif; color: #ffffff; padding: 15px;">💳 Integration</th>
-<th align="center" style="font-family: 'Cambria', serif; color: #ffffff; padding: 15px;">📱 Design</th>
-<th align="center" style="font-family: 'Cambria', serif; color: #ffffff; padding: 15px;">🌐 Deployment</th>
-</tr>
-<tr style="background-color: #1a1a2e;">
-<td valign="top" style="font-family: 'Cambria', serif; color: #e2e8f0;">
-✅ Site Migration<br/>
-✅ Zero-Downtime<br/>
-✅ Staging Setup<br/>
-✅ Backups<br/>
-✅ cPanel Mgmt<br/>
-✅ DNS Config<br/>
-✅ Hosting Mgmt
-</td>
-<td valign="top" style="font-family: 'Cambria', serif; color: #e2e8f0;">
-✅ Razorpay API<br/>
-✅ PayPal Gateway<br/>
-✅ REST API Build<br/>
-✅ 3rd-Party APIs<br/>
-✅ Webhook Setup<br/>
-✅ Custom API<br/>
-✅ Email Automation
-</td>
-<td valign="top" style="font-family: 'Cambria', serif; color: #e2e8f0;">
-✅ Mobile-First<br/>
-✅ Responsive<br/>
-✅ Cross-Browser<br/>
-✅ Accessible<br/>
-✅ SEO Optimized<br/>
-✅ Fast Load<br/>
-✅ User-Friendly
-</td>
-<td valign="top" style="font-family: 'Cambria', serif; color: #e2e8f0;">
-✅ Git Workflow<br/>
-✅ GitHub Setup<br/>
-✅ CI/CD Pipeline<br/>
-✅ Version Control<br/>
-✅ Code Review<br/>
-✅ Documentation<br/>
-✅ Best Practices
-</td>
-</tr>
-</table>
+| Project | Industry | Tech Stack | Highlights | Link |
+|---------|----------|-----------|-----------|------|
+| **Alligator Solar** | Renewable Energy | WordPress, Elementor, ACF | Lead generation platform, 90+ PageSpeed, responsive design | [Visit →](https://alligatorsolar.com) |
+| **U3 Infotech** | IT Services | WordPress, PHP, REST API | CRM integration, fully responsive, service portal | [Visit →](https://www.u3infotech.com) |
+| **Cloud IBN** | Cloud Consulting | WordPress, Elementor, Analytics | Service catalog, conversion-optimized, Core Web Vitals | [Visit →](https://www.cloudibn.com) |
+| **CVLOG International** | Logistics | WooCommerce, REST API | Quote system, live tracking, payment integration | [Visit →](https://cvloginternational.com) |
+| **The Aroma Aisle** | E-Commerce | WooCommerce, Razorpay | Product filters, cart recovery, payment processing | [Visit →](https://thearomaaisle.com) |
+| **PrimeTycoon** | Finance Advisory | WordPress, PHP, 2FA | Enterprise security, GDPR compliant, portfolio system | [Visit →](https://primetycoon.com) |
 
 ---
 
-<div align="center" style="font-family: 'Cambria', serif; background-color: #0a1628; padding: 40px; border-radius: 15px; margin: 20px 0;">
+## 📊 GitHub Analytics
 
-<h2 style="color: #22c55e; font-size: 2.2em;">🏢 INDUSTRIES SERVED</h2>
+<div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZwdmNkNGc4ZndqMWFwOHZ3YjF0cGN3YWcydm82bWJvMGRpYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif" width="350" alt="Industries" />
+### GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bksanket99&show_icons=true&theme=highcontrast&bg_color=0d1117&title_color=1a56db&text_color=e2e8f0&icon_color=60a5fa&border_color=1a56db&border_radius=10)](https://github.com/bksanket99)
 
-</div>
+### GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bksanket99&theme=highcontrast&background=0d1117&border=1a56db&ring=1a56db&fire=f59e0b&currStreakNum=e2e8f0&sideNums=a0aec0&currStreakLabel=1a56db&sideLabels=1a56db&dates=a0aec0&hide_border=false)](https://github.com/bksanket99)
 
-<div align="center" style="background: linear-gradient(90deg, #0d1117, #1a1a2e, #0d1117); padding: 25px; border-radius: 10px; margin: 20px 0;">
-
-[![IT%20Services](https://img.shields.io/badge/🏢%20IT%20SERVICES-1a56db?style=for-the-badge&labelColor=0d1117)](.)
-&nbsp;
-[![E%2DCommerce](https://img.shields.io/badge/🛍️%20E%2DCOMMERCE-22c55e?style=for-the-badge&labelColor=0d1117)](.)
-&nbsp;
-[![Finance](https://img.shields.io/badge/📈%20FINANCE-ef4444?style=for-the-badge&labelColor=0d1117)](.)
-&nbsp;
-[![Education](https://img.shields.io/badge/🎓%20EDUCATION-a855f7?style=for-the-badge&labelColor=0d1117)](.)
-
-<br/>
-
-[![Healthcare](https://img.shields.io/badge/🏥%20HEALTHCARE-14b8a6?style=for-the-badge&labelColor=0d1117)](.)
-&nbsp;
-[![Automotive](https://img.shields.io/badge/🚗%20AUTOMOTIVE-f97316?style=for-the-badge&labelColor=0d1117)](.)
-&nbsp;
-[![Logistics](https://img.shields.io/badge/🚚%20LOGISTICS-60a5fa?style=for-the-badge&labelColor=0d1117)](.)
+### Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bksanket99&layout=compact&theme=highcontrast&bg_color=0d1117&title_color=1a56db&text_color=e2e8f0&border_color=1a56db&border_radius=10)](https://github.com/bksanket99)
 
 </div>
 
 ---
 
-<div align="center" style="font-family: 'Cambria', serif; background-color: #0a1628; padding: 40px; border-radius: 15px; margin: 20px 0;">
+## 🏆 Key Achievements
 
-<h2 style="color: #a855f7; font-size: 2.2em;">🚀 FEATURED PROJECTS</h2>
+<div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="350" alt="Projects" />
-
-</div>
-
-<table align="center" cellpadding="20" cellspacing="15" border="0" width="100%" style="background: linear-gradient(135deg, #0d1117, #1a1a2e);">
-<tr>
-<td align="center" width="50%" style="background-color: #1a3a1a; border-radius: 10px; padding: 20px;">
-
-<h3 style="font-family: 'Cambria', serif; color: #22c55e; font-size: 1.4em;">☀️ ALLIGATOR SOLAR</h3>
-<p style="font-family: 'Cambria', serif; color: #e2e8f0;"><strong>Renewable Energy Platform</strong></p>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; font-size: 0.9em;">WordPress • Elementor • ACF • Lead Generation • 90+ PageSpeed</p>
-<a href="https://alligatorsolar.com/" style="font-family: 'Cambria', serif; background: #22c55e; color: #0d1117; padding: 8px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">🔗 Visit Website</a>
-
-</td>
-<td align="center" width="50%" style="background-color: #1a2a3a; border-radius: 10px; padding: 20px;">
-
-<h3 style="font-family: 'Cambria', serif; color: #1a56db; font-size: 1.4em;">💻 U3 INFOTECH</h3>
-<p style="font-family: 'Cambria', serif; color: #e2e8f0;"><strong>IT Services Portal</strong></p>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; font-size: 0.9em;">WordPress • PHP • REST API • CRM Integration • Fully Responsive</p>
-<a href="https://www.u3infotech.com/" style="font-family: 'Cambria', serif; background: #1a56db; color: #ffffff; padding: 8px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">🔗 Visit Website</a>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" style="background-color: #1a2a3a; border-radius: 10px; padding: 20px;">
-
-<h3 style="font-family: 'Cambria', serif; color: #60a5fa; font-size: 1.4em;">☁️ CLOUD IBN</h3>
-<p style="font-family: 'Cambria', serif; color: #e2e8f0;"><strong>Cloud Consulting Hub</strong></p>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; font-size: 0.9em;">WordPress • Elementor • Service Catalog • Analytics • Core Web Vitals</p>
-<a href="https://www.cloudibn.com/" style="font-family: 'Cambria', serif; background: #60a5fa; color: #0d1117; padding: 8px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">🔗 Visit Website</a>
-
-</td>
-<td align="center" width="50%" style="background-color: #1a3a2a; border-radius: 10px; padding: 20px;">
-
-<h3 style="font-family: 'Cambria', serif; color: #14b8a6; font-size: 1.4em;">🚢 CVLOG INTL</h3>
-<p style="font-family: 'Cambria', serif; color: #e2e8f0;"><strong>Logistics Management</strong></p>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; font-size: 0.9em;">WooCommerce • REST API • Quote System • Live Tracking</p>
-<a href="https://cvloginternational.com/" style="font-family: 'Cambria', serif; background: #14b8a6; color: #0d1117; padding: 8px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">🔗 Visit Website</a>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" style="background-color: #3a2a1a; border-radius: 10px; padding: 20px;">
-
-<h3 style="font-family: 'Cambria', serif; color: #a855f7; font-size: 1.4em;">🕯️ AROMA AISLE</h3>
-<p style="font-family: 'Cambria', serif; color: #e2e8f0;"><strong>E-Commerce Store</strong></p>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; font-size: 0.9em;">WooCommerce • Razorpay • Product Filters • Cart Recovery</p>
-<a href="https://thearomaaisle.com/" style="font-family: 'Cambria', serif; background: #a855f7; color: #ffffff; padding: 8px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">🔗 Visit Website</a>
-
-</td>
-<td align="center" width="50%" style="background-color: #3a1a1a; border-radius: 10px; padding: 20px;">
-
-<h3 style="font-family: 'Cambria', serif; color: #ef4444; font-size: 1.4em;">📈 PRIMETYCOON</h3>
-<p style="font-family: 'Cambria', serif; color: #e2e8f0;"><strong>Finance Advisory</strong></p>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; font-size: 0.9em;">WordPress • PHP • 2FA • GDPR • Enterprise Security</p>
-<a href="https://primetycoon.com/" style="font-family: 'Cambria', serif; background: #ef4444; color: #ffffff; padding: 8px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">🔗 Visit Website</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center" style="font-family: 'Cambria', serif; background-color: #0a1628; padding: 40px; border-radius: 15px; margin: 20px 0;">
-
-<h2 style="color: #f59e0b; font-size: 2.2em;">🎁 SERVICES OFFERED</h2>
-
-<img src="https://media.giphy.com/media/Ll22OubEJTAPzGylMI/giphy.gif" width="350" alt="Services" />
-
-</div>
-
-<table align="center" cellpadding="20" cellspacing="10" border="1" bordercolor="#f59e0b" width="100%" style="background-color: #0d1117; border-radius: 10px;">
-<tr style="background: linear-gradient(to right, #f59e0b, #d97706);">
-<th align="left" style="font-family: 'Cambria', serif; color: #0d1117; padding: 15px; font-size: 1.1em;" width="25%">SERVICE</th>
-<th align="left" style="font-family: 'Cambria', serif; color: #0d1117; padding: 15px; font-size: 1.1em;" width="75%">WHAT YOU GET</th>
-</tr>
-<tr style="background-color: #1a1a2e;">
-<td style="font-family: 'Cambria', serif; color: #f59e0b; padding: 15px;"><strong>🌐 WordPress Dev</strong></td>
-<td style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">Custom themes, plugins, ACF, CPT, REST API, hooks & filters, Gutenberg</td>
-</tr>
-<tr style="background-color: #0d1117;">
-<td style="font-family: 'Cambria', serif; color: #22c55e; padding: 15px;"><strong>🛒 WooCommerce</strong></td>
-<td style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">Complete store setup, payments, products, checkout optimization, subscriptions</td>
-</tr>
-<tr style="background-color: #1a1a2e;">
-<td style="font-family: 'Cambria', serif; color: #1a56db; padding: 15px;"><strong>⚡ Speed Optimization</strong></td>
-<td style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">PageSpeed 90+, Core Web Vitals, caching, CDN, image optimization, lazy loading</td>
-</tr>
-<tr style="background-color: #0d1117;">
-<td style="font-family: 'Cambria', serif; color: #ef4444; padding: 15px;"><strong>🔒 Security</strong></td>
-<td style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">SSL/TLS, Wordfence, malware removal, GDPR compliance, 2FA, firewalls</td>
-</tr>
-<tr style="background-color: #1a1a2e;">
-<td style="font-family: 'Cambria', serif; color: #14b8a6; padding: 15px;"><strong>🚚 Migration</strong></td>
-<td style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">Zero-downtime transfers, host-to-host, domain migration, backups, staging</td>
-</tr>
-<tr style="background-color: #0d1117;">
-<td style="font-family: 'Cambria', serif; color: #a855f7; padding: 15px;"><strong>💳 Payments</strong></td>
-<td style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">Razorpay, PayPal, Stripe integration, multi-currency, subscriptions, automation</td>
-</tr>
-<tr style="background-color: #1a1a2e;">
-<td style="font-family: 'Cambria', serif; color: #60a5fa; padding: 15px;"><strong>🔗 API Integration</strong></td>
-<td style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">REST API development, 3rd-party integrations, webhooks, custom solutions</td>
-</tr>
-<tr style="background-color: #0d1117;">
-<td style="font-family: 'Cambria', serif; color: #f97316; padding: 15px;"><strong>📱 Responsive Design</strong></td>
-<td style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">Mobile-first approach, cross-browser compatibility, accessibility, speed</td>
-</tr>
-</table>
-
----
-
-<div align="center" style="font-family: 'Cambria', serif; background-color: #0a1628; padding: 40px; border-radius: 15px; margin: 20px 0;">
-
-<h2 style="color: #14b8a6; font-size: 2.2em;">🏆 ACHIEVEMENTS & MILESTONES</h2>
-
-<img src="https://media.giphy.com/media/l0HlDtKo5lWEooLRC/giphy.gif" width="350" alt="Achievements" />
-
-</div>
-
-<table align="center" cellpadding="20" cellspacing="10" border="0" width="100%" style="background: linear-gradient(135deg, #0d1117, #1a1a2e);">
-<tr>
-<td align="center" style="background-color: #1a3a2a; border-radius: 8px; padding: 20px;">
-<h3 style="font-family: 'Cambria', serif; color: #14b8a6; margin: 0;">✅ 40+ Websites</h3>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; margin: 5px 0;">Across 7 Industries</p>
-</td>
-<td align="center" style="background-color: #1a3a1a; border-radius: 8px; padding: 20px;">
-<h3 style="font-family: 'Cambria', serif; color: #22c55e; margin: 0;">✅ 90+ PageSpeed</h3>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; margin: 5px 0;">Consistently Achieved</p>
-</td>
-<td align="center" style="background-color: #3a2a1a; border-radius: 8px; padding: 20px;">
-<h3 style="font-family: 'Cambria', serif; color: #f59e0b; margin: 0;">✅ Zero-Downtime</h3>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; margin: 5px 0;">All Migrations</p>
-</td>
-<td align="center" style="background-color: #3a1a2a; border-radius: 8px; padding: 20px;">
-<h3 style="font-family: 'Cambria', serif; color: #a855f7; margin: 0;">✅ Payment Gateways</h3>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; margin: 5px 0;">Razorpay & PayPal</p>
-</td>
-</tr>
-<tr style="margin-top: 10px;">
-<td align="center" style="background-color: #1a2a3a; border-radius: 8px; padding: 20px; margin-top: 10px;">
-<h3 style="font-family: 'Cambria', serif; color: #1a56db; margin: 0;">✅ Core Web Vitals</h3>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; margin: 5px 0;">LCP, FID, CLS</p>
-</td>
-<td align="center" style="background-color: #3a1a1a; border-radius: 8px; padding: 20px;">
-<h3 style="font-family: 'Cambria', serif; color: #ef4444; margin: 0;">✅ Security First</h3>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; margin: 5px 0;">SSL + Wordfence</p>
-</td>
-<td align="center" style="background-color: #1a2a1a; border-radius: 8px; padding: 20px;">
-<h3 style="font-family: 'Cambria', serif; color: #14b8a6; margin: 0;">✅ Enterprise Grade</h3>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; margin: 5px 0;">WooCommerce Stores</p>
-</td>
-<td align="center" style="background-color: #2a1a3a; border-radius: 8px; padding: 20px;">
-<h3 style="font-family: 'Cambria', serif; color: #8b5cf6; margin: 0;">✅ GDPR Ready</h3>
-<p style="font-family: 'Cambria', serif; color: #a0aec0; margin: 5px 0;">Compliance Setup</p>
-</td>
-</tr>
-</table>
-
----
-
-<div align="center" style="font-family: 'Cambria', serif; background-color: #0a1628; padding: 40px; border-radius: 15px; margin: 20px 0;">
-
-<h2 style="color: #60a5fa; font-size: 2.2em;">📞 CONTACT & CONNECT</h2>
-
-<img src="https://media.giphy.com/media/3oKIPf3C7HqqYe6pS0/giphy.gif" width="350" alt="Contact" />
-
-</div>
-
-<div align="center" style="background: linear-gradient(90deg, #0d1117, #1a1a2e, #0d1117); padding: 30px; border-radius: 10px; margin: 20px 0;">
-
-[![Email](https://img.shields.io/badge/📧%20EMAIL-CONTACT%20ME-D14836?style=for-the-badge&labelColor=0d1117)](mailto:your-email@example.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💬%20LINKEDIN-MESSAGE%20ME-0077B5?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/skbaviskar99)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT%20NOW-1a56db?style=for-the-badge&labelColor=0d1117)](https://sanketbaviskar.netlify.app)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/💻%20GITHUB-VIEW%20PROFILE-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/bksanket99)
+| Achievement | Details |
+|-------------|---------|
+| 🌐 **40+ Websites** | Delivered across 7 diverse industries globally |
+| 🚀 **90+ PageSpeed** | Consistently achieving 90+ PageSpeed scores |
+| ⚡ **Zero-Downtime** | All website migrations completed with zero downtime |
+| 💳 **Payment Integration** | Razorpay, PayPal, Stripe seamlessly integrated |
+| 🔒 **Security First** | SSL/TLS, Wordfence, GDPR compliance on all projects |
+| 📱 **Responsive Design** | Mobile-first approach on every project |
+| 🎯 **Core Web Vitals** | LCP, FID, CLS optimized for top rankings |
+| 💼 **Enterprise Grade** | Handled complex WooCommerce stores with high transaction volumes |
 
 </div>
 
 ---
 
-<div align="center" style="font-family: 'Cambria', serif; background-color: #0a1628; padding: 40px; border-radius: 15px; margin: 20px 0;">
+## 🎁 Services Offered
 
-<h2 style="color: #ef4444; font-size: 2.2em;">📍 AVAILABILITY</h2>
+<div align="center">
 
-<img src="https://media.giphy.com/media/l0HlNaQ8vJHW65bkI/giphy.gif" width="350" alt="Availability" />
+### WordPress Development
+- Custom theme development from scratch
+- Plugin development & customization
+- Gutenberg block creation
+- ACF Pro setup & field management
+- REST API endpoint development
+- Custom post types & taxonomies
+- Multisite configuration & management
 
-</div>
+### WooCommerce Services
+- Complete store setup & configuration
+- Product catalog management
+- Custom checkout flows
+- Payment gateway integration (Razorpay, PayPal, Stripe)
+- Subscription & recurring payments
+- Inventory management systems
+- Order automation & fulfillment
 
-<table align="center" cellpadding="20" cellspacing="10" border="1" bordercolor="#ef4444" width="100%" style="background-color: #0d1117; border-radius: 10px;">
-<tr style="background: linear-gradient(to right, #ef4444, #dc2626);">
-<th align="center" style="font-family: 'Cambria', serif; color: #ffffff; padding: 15px; font-size: 1.1em;" width="30%">KEY INFO</th>
-<th align="center" style="font-family: 'Cambria', serif; color: #ffffff; padding: 15px; font-size: 1.1em;" width="70%">DETAILS</th>
-</tr>
-<tr style="background-color: #1a1a2e;">
-<td align="center" style="font-family: 'Cambria', serif; color: #ef4444; padding: 15px; font-weight: bold;">📍 Location</td>
-<td align="left" style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">Pune, Maharashtra, India</td>
-</tr>
-<tr style="background-color: #0d1117;">
-<td align="center" style="font-family: 'Cambria', serif; color: #f59e0b; padding: 15px; font-weight: bold;">🕐 Timezone</td>
-<td align="left" style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">IST (UTC+5:30)</td>
-</tr>
-<tr style="background-color: #1a1a2e;">
-<td align="center" style="font-family: 'Cambria', serif; color: #22c55e; padding: 15px; font-weight: bold;">⏱️ Notice Period</td>
-<td align="left" style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">🟢 <strong>IMMEDIATE JOINER</strong></td>
-</tr>
-<tr style="background-color: #0d1117;">
-<td align="center" style="font-family: 'Cambria', serif; color: #1a56db; padding: 15px; font-weight: bold;">🎯 Open To</td>
-<td align="left" style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">Remote • Hybrid • Onsite (Pune • Mumbai • Bangalore • Hyderabad)</td>
-</tr>
-<tr style="background-color: #1a1a2e;">
-<td align="center" style="font-family: 'Cambria', serif; color: #a855f7; padding: 15px; font-weight: bold;">💼 Experience</td>
-<td align="left" style="font-family: 'Cambria', serif; color: #e2e8f0; padding: 15px;">2.5+ Years | 40+ Projects | 7 Industries | Enterprise Grade</td>
-</tr>
-</table>
+### Performance Optimization
+- PageSpeed optimization (90+ scores)
+- Core Web Vitals improvement
+- WP Rocket caching setup
+- Cloudflare CDN integration
+- Image optimization & lazy loading
+- Database query optimization
+- CSS/JavaScript minification
 
----
+### Security & Compliance
+- SSL/TLS certificate installation
+- Wordfence security setup
+- Malware scanning & removal
+- GDPR compliance implementation
+- Two-factor authentication
+- Firewall configuration
+- Regular security audits
 
-<div align="center" style="background: linear-gradient(135deg, #1a56db, #0d1117); padding: 50px; border-radius: 15px; margin: 20px 0;">
+### DevOps & Maintenance
+- Zero-downtime site migrations
+- Staging environment setup
+- Git workflow implementation
+- cPanel & hosting management
+- Automated backups
+- Server configuration
+- Performance monitoring
 
-<h1 style="font-family: 'Cambria', serif; color: #ffffff; font-size: 2.5em;">✅ READY FOR IMMEDIATE JOINING</h1>
-
-<p style="font-family: 'Cambria', serif; color: #e2e8f0; font-size: 1.2em;">Looking for a Senior WordPress Developer who delivers complete, scalable web solutions?</p>
-
-<p style="font-family: 'Cambria', serif; color: #60a5fa; font-size: 1.2em;">Let's collaborate and build something exceptional!</p>
-
-<br/><br/>
-
-[![Connect LinkedIn](https://img.shields.io/badge/🚀%20CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/skbaviskar99)
-&nbsp;
-[![View Portfolio](https://img.shields.io/badge/📂%20VIEW%20MY%20PORTFOLIO-1a56db?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://sanketbaviskar.netlify.app)
-
-</div>
-
----
-
-<div align="center" style="font-family: 'Cambria', serif; background: linear-gradient(135deg, #0d1117, #1a1a2e); padding: 40px; border-radius: 15px; margin: 20px 0;">
-
-<h2 style="color: #60a5fa; font-size: 2em;">📜 FOOTER</h2>
-
-<p style="font-family: 'Cambria', serif; color: #e2e8f0; font-size: 1.1em; margin: 15px 0;"><strong>Built with ❤️ by Sanket Baviskar</strong></p>
-
-<p style="font-family: 'Cambria', serif; color: #a0aec0; font-size: 1em; margin: 10px 0;">Senior WordPress & WooCommerce Developer | Pune, India</p>
-
-<p style="font-family: 'Cambria', serif; color: #60a5fa; font-size: 1em; margin: 20px 0;">
-📧 <a href="mailto:your-email@example.com" style="color: #60a5fa; text-decoration: none;">Contact</a> • 
-💼 <a href="https://linkedin.com/in/skbaviskar99" style="color: #60a5fa; text-decoration: none;">LinkedIn</a> • 
-🌐 <a href="https://sanketbaviskar.netlify.app" style="color: #60a5fa; text-decoration: none;">Portfolio</a> • 
-💻 <a href="https://github.com/bksanket99" style="color: #60a5fa; text-decoration: none;">GitHub</a>
-</p>
-
-<p style="font-family: 'Cambria', serif; color: #8b5cf6; font-size: 1em; font-style: italic; margin: 20px 0;">"Delivering excellence in WordPress development, one website at a time."</p>
-
-<hr style="border: 1px solid #1a56db; margin: 20px 0;" />
-
-<p style="font-family: 'Cambria', serif; color: #666666; font-size: 0.9em; margin: 15px 0;">© 2024 Sanket Baviskar. All Rights Reserved. | Last Updated: June 2024</p>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Sanket%20Baviskar-0d1117?style=flat-square&labelColor=1a56db" />
-&nbsp;
-<img src="https://img.shields.io/badge/Profile%20-bksanket99-181717?style=flat-square&logo=github&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status%20-Available%20for%20Work-22c55e?style=flat-square&labelColor=0d1117" />
+### API Integration
+- REST API development
+- 3rd-party API integration
+- Webhook setup & management
+- Custom API endpoints
+- Email automation
+- CRM integration
+- Real-time data synchronization
 
 </div>
 
 ---
+
+## 🌐 Industries Served
+
+```
+🏢 IT Services        🛍️ E-Commerce         📈 Finance
+🎓 Education          🏥 Healthcare         🚗 Automotive
+🚚 Logistics & Supply Chain Management
+```
+
+**7 Industries | 40+ Projects | 2.5+ Years of Expertise**
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+### Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/skbaviskar99)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-1a56db?style=for-the-badge&logo=globe&logoColor=white)](https://sanketbaviskar.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bksanket99)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanket.baviskar@example.com)
+
+### Availability Status
+- 📍 **Location:** Pune, Maharashtra, India
+- 🕐 **Timezone:** IST (UTC+5:30)
+- ⏰ **Notice Period:** Immediate Joiner 🟢
+- 🎯 **Open To:** Remote • Hybrid • Onsite (Pune • Mumbai • Bangalore • Hyderabad)
+- 💼 **Experience Level:** 2.5+ Years | Senior Developer
+
+</div>
+
+---
+
+## 📈 Professional Timeline
+
+- **Current Role:** Senior WordPress Developer at Dimakh Consultants Pvt Ltd
+- **Experience:** 2.5+ years in WordPress & WooCommerce development
+- **Projects:** 40+ live websites across multiple industries
+- **Specialization:** Enterprise WordPress, WooCommerce, PHP, Performance Optimization
+
+---
+
+<div align="center">
+
+### ⭐ Let's Build Something Exceptional Together
+
+I'm actively looking for **WordPress Developer** or **Senior WordPress Developer** roles. If you're building something great and need a skilled, reliable developer, let's connect!
+
+**[View Portfolio](https://sanketbaviskar.netlify.app)** • **[Connect on LinkedIn](https://linkedin.com/in/skbaviskar99)** • **[Check GitHub](https://github.com/bksanket99)**
+
+</div>
+
+---
+
+<div align="center">
+
+### 📜 Footer
+
+**Built with ❤️ by Sanket Baviskar**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=bksanket99&color=1a56db&style=for-the-badge)](https://github.com/bksanket99)
+
+*Senior WordPress & WooCommerce Developer | Pune, India*
+
+**"Delivering excellence in WordPress development, one website at a time."**
+
+---
+
+**© 2024 Sanket Baviskar** • All Rights Reserved  
+**Status:** Available for Work 🟢 • **Last Updated:** June 2024
+
+</div>
