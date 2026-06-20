@@ -25,6 +25,15 @@
 
 <br/><br/>
 
+<!-- ░░░ TRACKING & SOCIAL PROOF BADGE ROW ░░░ -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=bksanket99.bksanket99&style=for-the-badge&color=0d1117" alt="Visitor Count"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/bksanket99?style=for-the-badge&label=Followers&color=22c55e&labelColor=0d1117&logo=github" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/bksanket99?style=for-the-badge&label=Stars%20Earned&color=f59e0b&labelColor=0d1117&logo=github&affiliations=OWNER" alt="Total Stars"/>
+
+<br/><br/>
+
 <!-- ░░░ DIVIDER ░░░ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -117,6 +126,47 @@ class SanketBaviskar extends WordPressDeveloper {
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/90%2B-PageSpeed-ef4444?style=for-the-badge&labelColor=0d1117" /><br/>
 <b>Score Achieved</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--             LIVE VISIBILITY & TRACKING DASHBOARD            -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+## 📡 &nbsp; LIVE VISIBILITY & TRACKING DASHBOARD
+
+<sub>All counters below are <b>live, real, and verifiable</b> — no fabricated numbers. See the <a href="#tracking-faq">tracking methodology FAQ</a> near the bottom for what each one can and can't tell you.</sub>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://komarev.com/ghpvc/?username=bksanket99&style=for-the-badge&color=1a56db&label=PROFILE+VIEWS&labelColor=0d1117"/><br/>
+<sub>Cumulative README image loads</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=bksanket99-visitors&style=for-the-badge&color=0d1117" /><br/>
+<sub>Independent visitor counter</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/github/followers/bksanket99?style=for-the-badge&label=FOLLOWERS&color=22c55e&labelColor=0d1117&logo=github"/><br/>
+<sub>Live GitHub follower count</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/github/stars/bksanket99?style=for-the-badge&label=STARS&color=f59e0b&labelColor=0d1117&logo=github&affiliations=OWNER"/><br/>
+<sub>Stars earned across repos</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&color=a855f7&labelColor=0d1117&logo=github&query=public_repos&url=https://api.github.com/users/bksanket99"/><br/>
+<sub>Public repositories</sub>
 </td>
 </tr>
 </table>
@@ -495,7 +545,11 @@ Media logistics site with dynamic pages, inquiry management system, REST API cli
 
 <div align="center">
 
-## 📈 &nbsp; GITHUB STATS
+## 📈 &nbsp; GITHUB STATS & ACTIVITY DASHBOARD
+
+<sub>🔥 Streak · 📊 Commit activity · 🏆 Trophies — all pulled live, updated automatically every time this page loads</sub>
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=bksanket99&show_icons=true&theme=tokyonight&hide_border=true&title_color=1a56db&icon_color=60a5fa&text_color=e2e8f0&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
 &nbsp;
@@ -512,6 +566,32 @@ Media logistics site with dynamic pages, inquiry management system, REST API cli
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=bksanket99&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="95%"/>
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--               REPOSITORY STATISTICS                         -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+## 📂 &nbsp; REPOSITORY STATISTICS
+
+<sub>Per-repo stars/forks below are <b>live badges</b> — replace <code>repo-name</code> with your actual repo slugs and they update automatically. For real traffic numbers (visitors, clones, referrers) per repo, see the note below — that data only exists inside GitHub's own Insights tab and cannot legally be pulled into a public README.</sub>
+
+<br/><br/>
+
+| 📁 Repository | ⭐ Stars | 🍴 Forks | 🛠 Primary Stack |
+|:---|:---:|:---:|:---|
+| [`repo-name-1`](https://github.com/bksanket99/repo-name-1) | ![Stars](https://img.shields.io/github/stars/bksanket99/repo-name-1?style=flat-square&color=f59e0b&label=%20) | ![Forks](https://img.shields.io/github/forks/bksanket99/repo-name-1?style=flat-square&color=22c55e&label=%20) | WordPress / PHP |
+| [`repo-name-2`](https://github.com/bksanket99/repo-name-2) | ![Stars](https://img.shields.io/github/stars/bksanket99/repo-name-2?style=flat-square&color=f59e0b&label=%20) | ![Forks](https://img.shields.io/github/forks/bksanket99/repo-name-2?style=flat-square&color=22c55e&label=%20) | WooCommerce |
+| [`repo-name-3`](https://github.com/bksanket99/repo-name-3) | ![Stars](https://img.shields.io/github/stars/bksanket99/repo-name-3?style=flat-square&color=f59e0b&label=%20) | ![Forks](https://img.shields.io/github/forks/bksanket99/repo-name-3?style=flat-square&color=22c55e&label=%20) | PHP / REST API |
+
+<br/>
+
+> 📌 **To see which of your repos are actually getting visitor traffic:** go to any repo → **Insights tab → Traffic**. GitHub shows you 14-day rolling views, unique visitors, clones, and top referrer sites for free — it's just owner-only and can't be embedded in a public README by design.
 
 </div>
 
@@ -574,8 +654,156 @@ Media logistics site with dynamic pages, inquiry management system, REST API cli
 ---
 
 <!-- ████████████████████████████████████████████████████████████ -->
-<!--                    HIRING BANNER                           -->
+<!--               RECRUITER CONTACT SECTION                     -->
 <!-- ████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+## 🎯 &nbsp; RECRUITER CONTACT SECTION
+
+<table>
+<tr>
+<td align="center" width="25%">🟢<br/><b>Status</b><br/>Immediate Joiner</td>
+<td align="center" width="25%">📍<br/><b>Location</b><br/>Pune, IN (IST)</td>
+<td align="center" width="25%">🎯<br/><b>Open to</b><br/>Remote / Hybrid / Onsite</td>
+<td align="center" width="25%">⏱<br/><b>Notice Period</b><br/>Immediate</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://linkedin.com/in/skbaviskar99">
+  <img src="https://img.shields.io/badge/💬%20Message%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/📄%20Download%20Resume-1a56db?style=for-the-badge&logo=googledocs&logoColor=white"/>
+</a>
+
+<sub>⚠️ Placeholders — swap the email <code>mailto:</code> link and the resume <code>#</code> link with your real address and a hosted PDF (e.g. a link to the file in this profile repo, or a Drive/Dropbox share link).</sub>
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                   SOCIAL PROOF SECTION                       -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+## 🤝 &nbsp; SOCIAL PROOF
+
+<table>
+<tr>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/40%2B-Client%20Websites-1a56db?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/7-Industries%20Served-22c55e?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center" width="25%"><img src="https://img.shields.io/github/stars/bksanket99?style=for-the-badge&label=GitHub%20Stars&color=f59e0b&labelColor=0d1117&logo=github&affiliations=OWNER"/></td>
+<td align="center" width="25%"><img src="https://img.shields.io/github/followers/bksanket99?style=for-the-badge&label=Followers&color=a855f7&labelColor=0d1117&logo=github"/></td>
+</tr>
+</table>
+
+<br/>
+
+> 💬 *"Add a real, permission-given testimonial quote from a past client or manager here — 1–2 lines, with their name and role. A genuine quote outperforms any badge."*
+
+| Client / Project | Industry | What they got |
+|:---|:---|:---|
+| Alligator Solar | Renewable Energy | Lead-gen site, 90+ PageSpeed |
+| The Aroma Aisle | E-Commerce | Full WooCommerce + Razorpay store |
+| Primetycoon | Finance | Security-hardened advisory site |
+
+<sub>This table reuses your existing Featured Projects above as proof points — it's real shipped work, which recruiters trust far more than vanity badges.</sub>
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                PORTFOLIO ANALYTICS SECTION                  -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+## 📈 &nbsp; PORTFOLIO ANALYTICS
+
+<sub>A README image can't run JavaScript, so it can't host live Google Analytics / Microsoft Clarity charts directly. The real analytics setup lives on your <b>portfolio site</b> — here's how to make that connect cleanly to this profile.</sub>
+
+<br/><br/>
+
+| Question | Where it's actually answered |
+|:---|:---|
+| How many people clicked through to my portfolio from this README? | **Google Analytics 4** on your portfolio site, filtered by `utm_source=github_readme` (see links below) |
+| How many clicked my LinkedIn link? | A **trackable short link** (e.g. Dub.co, free tier) in place of the raw LinkedIn URL — GitHub and LinkedIn give you zero click data otherwise |
+| Where do portfolio visitors go / drop off? | **Microsoft Clarity** heatmaps + session recordings, embedded on the portfolio site itself |
+| Which traffic source sends the most visitors? | GA4 → Acquisition → Traffic acquisition report, segmented by `utm_source` |
+
+<br/>
+
+**Tagged links for this README** *(point these at your real portfolio so GA4 can isolate README-driven traffic)*:
+
+```
+https://sanketbaviskar.netlify.app/?utm_source=github_readme&utm_medium=profile&utm_campaign=recruiter_visibility
+```
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--             "WHO VIEWED MY PROFILE?" SECTION                -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+## 👀 &nbsp; WHO VIEWED MY PROFILE?
+
+<img src="https://komarev.com/ghpvc/?username=bksanket99&style=for-the-badge&color=0d1117&label=TOTAL%20PROFILE%20VIEWS"/>
+
+<br/><br/>
+
+**Short, honest answer: GitHub will never tell you — and no legitimate tool can.**
+
+GitHub does not expose visitor identity to profile owners, by design, for everyone's privacy — including yours, when you visit other people's profiles. Any badge, bot, or browser extension that claims to show you "who viewed your profile" by name is either fake or quietly violating GitHub's Terms of Service. This README does not do that.
+
+What you *can* honestly show and track instead:
+
+- ✅ **Aggregate view count** (above) — how many times your profile/README has been loaded
+- ✅ **Repo-level traffic** — via each repo's own Insights → Traffic tab (owner-only, 14-day window)
+- ✅ **Click-through volume** to your portfolio and LinkedIn — via UTM tags + a trackable short link
+- ❌ Visitor names, companies, or job titles — not available, and any README claiming otherwise is misleading visitors
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                   TRACKING METHODOLOGY FAQ                  -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<a name="tracking-faq"></a>
+
+<div align="center">
+
+## 🔍 &nbsp; TRACKING METHODOLOGY — WHAT EACH TOOL ABOVE ACTUALLY MEASURES
+
+</div>
+
+| Tool | What it really counts | Limitation to know |
+|:---|:---|:---|
+| **komarev.com/ghpvc** (Profile Views badge) | Every time the README's badge image is requested | Counts image loads, not unique humans — refreshing the page adds to the count |
+| **visitor-badge.laobi.icu** | A second, independently-run counter for cross-checking the above | Same image-load limitation; numbers won't perfectly match komarev |
+| **Shields.io GitHub badges** (followers / stars / repos) | Live pulls from the public GitHub API | 100% accurate, but only shows totals — not *who* followed/starred or *when* |
+| **GitHub Insights → Traffic** (per repo) | Real unique visitors, views, clones, and top referrers | Owner-only, 14-day rolling window, can't be embedded publicly |
+| **Google Analytics 4** (on your portfolio site) | Real sessions, traffic source, geography, device, on-site behavior | Only works on pages you control with the GA snippet installed — not on github.com |
+| **Microsoft Clarity** (on your portfolio site) | Session recordings + heatmaps of what visitors actually click/scroll | Same as above — portfolio only, not GitHub |
+| **UTM parameters + a short link** (e.g. Dub.co) | Real click counts on your LinkedIn / portfolio links from this specific README | Requires swapping plain links for tagged ones, as shown in the Portfolio Analytics section |
+
+---
 
 <div align="center">
 
