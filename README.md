@@ -1,21 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sanket Baviskar - Senior WordPress Developer</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Cambria', serif; background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 100%); color: #e2e8f0; line-height: 1.6; }
-    </style>
-</head>
-<body>
+
 
 <div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 100%); padding: 30px;">
 
-<h1 style="font-family: 'Cambria', serif; color: #1a56db; font-size: 3.5em; margin: 0;">🚀 SANKET BAVISKAR</h1>
+<h1 style="font-family: 'Cambria', serif; color: #1a56db; font-size: 3.5em; margin: 0;background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 100%);">🚀 SANKET BAVISKAR</h1>
 
-<h2 style="font-family: 'Cambria', serif; color: #60a5fa; font-size: 1.8em; margin: 10px 0;">Senior WordPress & WooCommerce Developer</h2>
+<h2 style="font-family: 'Cambria', serif; color: #60a5fa; font-size: 1.8em; margin: 10px 0;background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 100%);">Senior WordPress & WooCommerce Developer</h2>
 
 <p style="font-family: 'Cambria', serif; color: #e2e8f0; font-size: 1.1em;">Pune, India • IST (UTC+5:30) • 🟢 Available Now</p>
 
@@ -452,6 +441,3 @@
 <hr style="border: 1px solid #1a56db; margin: 20px 0;" />
 <p style="font-family: 'Cambria', serif; color: #666666; font-size: 0.9em; margin: 15px 0;">© 2024 Sanket Baviskar. All Rights Reserved.</p>
 </div>
-
-</body>
-</html>
